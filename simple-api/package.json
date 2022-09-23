@@ -1,0 +1,17 @@
+{
+  "name": "simple-api",
+  "version": "1.0.0",
+  "description": "A simple api which provides an endpoint for GET users and /",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon start"
+  },
+  "author": "Varshil Shah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
